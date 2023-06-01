@@ -43,6 +43,7 @@ Hello, ðŸ‘‹ I am a mechatronics engineering student and also a game developer. ð
 
 <div align="center">
 <img src="https://giphy.com/gifs/star-wars-the-phantom-menace-KWV7mrud6Dq4o" align="center" style="width: 100%" />
+ <iframe src="https://giphy.com/embed/KWV7mrud6Dq4o" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/star-wars-the-phantom-menace-KWV7mrud6Dq4o">via GIPHY</a></p>
 </div>  
 
 

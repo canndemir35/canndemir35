@@ -41,9 +41,6 @@ Hello, ðŸ‘‹ I am a mechatronics engineering student and also a game developer. ð
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<iframe src="https://giphy.com/embed/KWV7mrud6Dq4o" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/star-wars-the-phantom-menace-KWV7mrud6Dq4o">via GIPHY</a></p>
-</div>  
 
 
 </td></tr></table>  
@@ -65,6 +62,3 @@ Hello, ðŸ‘‹ I am a mechatronics engineering student and also a game developer. ð
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
 </div>
 <br />
-
-----
-
